@@ -1,0 +1,19 @@
+{
+  "name": "my_portifio",
+  "version": "1.0.0",
+  "description": "meu portifilo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "author": "Everton Souza",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  }
+}
